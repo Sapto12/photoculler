@@ -211,14 +211,14 @@ export default function Home() {
         <div>
           <div className="flex items-center gap-2">
             <h1 className="text-2xl sm:text-3xl font-bold tracking-tight bg-gradient-to-r from-blue-400 to-emerald-400 bg-clip-text text-transparent">
-              AI Photo Culling (Pro Edition)
+              AI Photo Culling
             </h1>
             <Badge variant="outline" className="border-emerald-500/30 text-emerald-400 bg-emerald-950/30 gap-1 text-xs">
               <ShieldCheck className="w-3 h-3" /> 100% Aman & Lokal
             </Badge>
           </div>
           <p className="text-sm text-slate-400 mt-1">
-            Sortir otomatis berdasarkan ketajaman fokus, exposure, dan standar fotografer profesional.
+            Sortir otomatis dengan sekali klik hampir sesuai dengan standar fotografer.
           </p>
         </div>
 
