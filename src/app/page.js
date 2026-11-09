@@ -214,7 +214,7 @@ export default function Home() {
               AI Photo Culling
             </h1>
             <Badge variant="outline" className="border-emerald-500/30 text-emerald-400 bg-emerald-950/30 gap-1 text-xs">
-              <ShieldCheck className="w-3 h-3" /> 100% Aman & Lokal
+              <ShieldCheck className="w-3 h-3" /> Lokal
             </Badge>
           </div>
           <p className="text-sm text-slate-400 mt-1">
